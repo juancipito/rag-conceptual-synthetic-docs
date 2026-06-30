@@ -1,0 +1,7 @@
+doc_id,title,section,text
+DOC-001,Adherence Exception Guide,policy,"Adherence exceptions must include date, interval, reason code, and supervisor review note."
+DOC-002,SLA Escalation Playbook,policy,"When SLA is below target for two intervals, analysts compare forecast variance, occupancy, shrinkage, and backlog."
+DOC-003,Bilingual Support Quality,policy,"Bilingual responses should preserve meaning, tone, and compliance language in both English and Spanish."
+DOC-004,Synthetic Data Policy,policy,"Public portfolio projects must use synthetic data and avoid employer, customer, student, credential, and health records."
+DOC-005,Forecast Review Notes,policy,Forecast review compares actual contacts against expected contacts and documents known events or staffing gaps.
+DOC-006,AI Evaluation Workflow,policy,"Prompt evaluators score helpfulness, accuracy, safety, clarity, and language quality using consistent rubrics."
